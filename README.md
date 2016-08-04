@@ -48,6 +48,6 @@ You can use presented code and data without any restrictions, but do not forget 
 	* Chiew, F. H. S., Peel, M. C., Western, A. W., Singh, V. P., & Frevert, D. (2002). Application and testing of the simple rainfall-runoff model SIMHYD. Mathematical models of small watershed hydrology and applications, 335-367.
 	* Valéry, A. (2010). Modélisation précipitations–débit sous influence nivale. Élaboration d’un module neige et évaluation sur 380 bassins versants. Agro Paris Tech., Paris, France.
 * For LHMP framework and playgroound:
-	* Ayzel, G. (2016). Lumped Hydrological Models Playground. github.com/hydrogo/LHMP, hub.docker.com/r/hydrogo/lhmp/
-	* Ayzel, G. (2016). LHMP: hydrological modelling framework and playground for local communities. PeerJ preprints. doi:
+	* Ayzel, G. (2016). Lumped Hydrological Models Playground. [github.com/hydrogo/LHMP](github.com/hydrogo/LHMP), [hub.docker.com/r/hydrogo/lhmp/](hub.docker.com/r/hydrogo/lhmp/).
+	* Ayzel Georgy. (2016). LHMP: lumped hydrological modelling playground. Zenodo. doi: [10.5281/zenodo.59501](http://dx.doi.org/10.5281/zenodo.59501).
 
