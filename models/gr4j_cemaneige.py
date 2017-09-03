@@ -179,7 +179,7 @@ def simulation(data, params):
         StUH1[NH-1] = OrdUH1[NH-1] * PRHU1
 
         # convolution of unit hydrograph UH2
-        for k in range(int( max(1, min(2*NH-1, 2*int(X4+1))) )):
+        for k in range(int( max(1, min(2*NH-1, 2*int(X4)+1)) )):
             StUH2[k] = StUH2[k+1] + OrdUH2[k] * PRHU2
         StUH2[2*NH-1] = OrdUH2[2*NH-1] * PRHU2
 
